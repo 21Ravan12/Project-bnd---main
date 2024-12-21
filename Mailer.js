@@ -9,8 +9,8 @@ app.use(cors());
 const transporter = createTransport({
   service: 'gmail', 
   auth: {
-      user: 'asgarovravan@gmail.com',  
-      pass: 'cwyubjzfwgkhrqvp'          
+      user: '',  
+      pass: ''          
   }
 });
 
